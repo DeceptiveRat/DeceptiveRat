@@ -24,5 +24,5 @@ Feel free to check out my repositories and reach out if you'd like to contribute
 
 ## Get in Touch
 
-- 📧 Email: [0101087ssk@gmail.com](mailto:0101087ssk@gmail.com)
-- 🌐 Website: [LinkedIn.com](https://www.linkedin.com/in/%EC%8A%B9%EC%88%98-%EA%B9%80-8833362b3/)
+- Email: [0101087ssk@gmail.com](mailto:0101087ssk@gmail.com)
+- Website: [LinkedIn.com](https://www.linkedin.com/in/%EC%8A%B9%EC%88%98-%EA%B9%80-8833362b3/)
