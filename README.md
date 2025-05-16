@@ -1,5 +1,5 @@
 
-Welcome to my GitHub profile! I'm a computer science student passionate about **cybersecurity**, **pentesting**, and **software engineering**.
+Welcome to my GitHub profile! I'm a computer science student passionate about **SOC**, **pentesting**, **malware analysis**, and **software engineering**.
 
 ---
 
