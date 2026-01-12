@@ -1,12 +1,12 @@
 
-Welcome to my GitHub profile! I'm a computer science student passionate about **SOC**, **pentesting**, **malware analysis**, and **software engineering**.
+Welcome to my GitHub profile! I'm a computer science student passionate about **SOC**, **digital forensics**, **malware analysis**, and **offensive security**.
 
 ---
 
 ## About Me
 
-- **Currently Studying**: 3rd year of a Bachelor's degree in Computer Science
-- **Current Focus**: Reverse engineering, malware analysis, network security, and pentesting tools
+- **Currently Studying**: 4th year of a Bachelor's degree in Computer Science
+- **Current Focus**: Reverse engineering, malware analysis, network security, and incident response
 
 ---
 
@@ -16,9 +16,6 @@ I'm always open to learning from others and collaborating on projects related to
 - Malware analysis
 - reverse engineering
 - Network security tools
-- Custom Linux utilities
-
-Feel free to check out my repositories and reach out if you'd like to contribute or discuss ideas!
 
 ---
 
