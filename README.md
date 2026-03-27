@@ -15,7 +15,7 @@ I'm always open to learning from others and collaborating on projects related to
 
 - Malware analysis
 - reverse engineering
-- Network security tools
+- Digital Forensics
 
 ---
 
