@@ -1,5 +1,5 @@
 
-Welcome to my GitHub profile! I'm a computer science student passionate about **SOC**, **digital forensics**, **malware analysis**, and **offensive security**.
+Welcome to my GitHub profile! I'm a computer science student passionate about **SOC**, **digital forensics**, **malware analysis**.
 
 ---
 
@@ -16,6 +16,12 @@ I'm always open to learning from others and collaborating on projects related to
 - Malware analysis
 - reverse engineering
 - Digital Forensics
+
+---
+
+## Affiliations
+- Gachon University Pay1oad: 2025/03~
+- Hspace Digital Forensics Lab: 2026/04~
 
 ---
 
