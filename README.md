@@ -10,18 +10,10 @@ Welcome to my GitHub profile! I'm a computer science student passionate about **
 
 ---
 
-## Let's Collaborate!
-I'm always open to learning from others and collaborating on projects related to:
-
-- Malware analysis
-- reverse engineering
-- Digital Forensics
-
----
-
 ## Affiliations
 - Gachon University Pay1oad: 2025/03~
 - Hspace Digital Forensics Lab: 2026/04~
+- South Korea Next-Generation Security Leader Training Program(BoB): 2026/07~2027/03
 
 ---
 
